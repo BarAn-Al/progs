@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Пользователь\Desktop\проги\numGenerate\numGenerate\main.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Пользователь\Desktop\проги\numGenerate\numGenerate\main.cpp(22,29): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  numGenerate.vcxproj -> C:\Users\Пользователь\Desktop\проги\numGenerate\x64\Debug\numGenerate.exe
