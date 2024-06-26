@@ -1,4 +1,4 @@
 ﻿  main.cpp
-C:\Users\Пользователь\Desktop\proga\isaac\isaac\main.cpp(33,34): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-C:\Users\Пользователь\Desktop\proga\isaac\isaac\main.cpp(289,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  isaac.vcxproj -> C:\Users\Пользователь\Desktop\proga\isaac\x64\Debug\isaac.exe
+C:\Users\Пользователь\Desktop\progs\isaac\isaac\main.cpp(33,34): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Пользователь\Desktop\progs\isaac\isaac\main.cpp(289,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  isaac.vcxproj -> C:\Users\Пользователь\Desktop\progs\isaac\x64\Debug\isaac.exe
