@@ -4,30 +4,13 @@
 #include "object.h"
 
 class creature : public object {
-private:
-	int health;
-
 public:
-	creature(const int& a, const int& b, const int& h) : object(a, b), health(h) {}
-	creature(const creature& other) : object(other), health(other.health) {}
+	using object::object;
 
-
-	void go_up() {
-		get_x()++;
-	}
-
-	void go_down() {
-		get_x()--;
-	}
-
-	void go_left() {
-		get_y()--;
-	}
-
-	void go_right() {
-		get_y()++;
-	}
+	void move_up() { pos_x--; }
+	void move_down() { pos_x++; };
+	void move_left() { pos_y--; };
+	void move_right() { pos_y++; };
 };
-
 
 #endif //CREATURE_H

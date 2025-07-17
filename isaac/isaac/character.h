@@ -6,8 +6,7 @@
 class character : public creature {
 public:
 	using creature::creature;
-
+	virtual char type() { return '@'; }
 };
-
 
 #endif //CHARACTER_H

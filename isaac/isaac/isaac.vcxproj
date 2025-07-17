@@ -139,12 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="object.cpp" />
+    <ClCompile Include="field.cpp" />
+    <ClCompile Include="interation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="character.h" />
     <ClInclude Include="creature.h" />
+    <ClInclude Include="enemy.h" />
+    <ClInclude Include="field.h" />
     <ClInclude Include="object.h" />
     <ClInclude Include="rock.h" />
   </ItemGroup>
