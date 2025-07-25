@@ -1,3 +1,0 @@
-﻿  interation.cpp
-D:\Repos\progs\isaac\isaac\interation.cpp(221,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  isaac.vcxproj -> D:\Repos\progs\isaac\x64\Debug\isaac.exe
